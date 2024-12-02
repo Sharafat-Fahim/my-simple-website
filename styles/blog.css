@@ -1,11 +1,16 @@
-div{
+div {
     background-color: tomato;
     padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: solid red;
 }
-h3{
+
+h3 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
-p{
+
+p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
